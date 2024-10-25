@@ -1,0 +1,37 @@
+Privacy Policy for Steve Machinist Calculator
+
+Effective Date: 10/24/24
+
+At Steve Machinist Calculator (the "App"), your privacy is important to us. This privacy policy explains how we use Google AdMob and how it collects, uses, and shares data through the App.
+1. Information Collected by AdMob
+
+Our App uses Google AdMob to display advertisements. AdMob may collect certain information from your device automatically, such as:
+
+    Device Information: Information about your device, including the type, manufacturer, model, operating system, and identifiers such as advertising IDs.
+    Usage Data: Information on how you interact with the advertisements displayed in the App, including ad impressions, clicks, and interactions.
+    Location Information: AdMob may collect coarse location data based on your device’s IP address to provide localized ads.
+
+AdMob may use cookies, web beacons, and other tracking technologies to collect and store information about user interactions with ads.
+2. How AdMob Uses Your Information
+
+AdMob may use the collected information to:
+
+    Display personalized or non-personalized ads based on your preferences and activity.
+    Analyze ad performance and user engagement with ads.
+    Ensure compliance with legal regulations and to prevent fraud and abuse.
+
+For more information on how Google AdMob collects, uses, and shares your information, please refer to Google’s Privacy Policy: Google Privacy Policy
+3. Your Choices
+
+    Personalized Ads: You can opt out of personalized advertising by adjusting your device settings. For Android devices, go to Settings > Google > Ads, and select Opt out of Ads Personalization. For iOS devices, go to Settings > Privacy > Advertising, and enable Limit Ad Tracking.
+    Ad Settings: You can manage your ad preferences through Google’s Ad Settings at Google Ad Settings.
+
+4. Data Security
+
+We take reasonable measures to protect your information. However, please note that no method of transmission over the internet or electronic storage is completely secure.
+5. Changes to This Privacy Policy
+
+We may update this privacy policy from time to time. Any changes will be reflected with an updated Effective Date at the top of this page. We encourage you to review this policy periodically.
+6. Contact Us
+
+If you have any questions or concerns about this privacy policy or the use of AdMob in our App, please contact us.
